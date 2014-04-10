@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<title>Photography_mania</title>
+
+</head>
+<body>
+<h1>Photography Mania</h1>
+<link rel="stylesheet" type="text/css" href="po1.css">
+<div id="cf">
+<img src="photography.jpg" width="100%" height="30%" /> 
+  <img src="pho.jpg" width="100%" height="30%" />
+</div>
+
+<link rel="stylesheet" type="text/css" href="po.css">
+<ul>
+<li><a href="#home">Home</a></li>
+<li><a href="#news">News</a></li>
+<li><a href="#contact">Contact</a></li>
+<li><a href="#about">About</a></li>
+</ul>
+<div id="div1">*Photography contest begins on 1st May* *Winners get goodies*</div>
+</body>
+</html>

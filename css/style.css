@@ -4,6 +4,16 @@ color: #00ff00;
 }
 
 
+h1:hover
+{
+	color: #ff0000;
+	-webkit-transition: all 1s ease-out;
+-moz-transition: all 1s ease-out;
+-ms-transition: all 1s ease-out;
+-o-transition: all 1s ease-out;
+transition: all 1s ease-out;
+}
+
 body
 {
 	margin: 20px 25px 30px;
@@ -20,7 +30,7 @@ body
 color: #0000ff;	
 }
 
-p .cl
+p.cl
 {
 	text-decoration: underline;
 }
